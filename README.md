@@ -66,5 +66,8 @@ The app is divided into four sections accessible via the sidebar menu:
 - **Certificate Analysis:** Visualize the distribution of movie certificates across different time periods.
 - **Data Exploration:** Explore correlations between numerical features such as IMDb ratings, runtime, and gross income.
 
+### How to see the details of the IDA, EDA, and data cleaning:
+- Refer to .ipynb files to see the deatils
+
 ## Conclusion
 This project demonstrates the power of data science in analyzing and understanding trends in the movie industry. It provides a platform for interactive exploration of the IMDb Top 1000 dataset, giving valuable insights for both movie enthusiasts and industry professionals.
